@@ -43,4 +43,9 @@
 **3. Количество продаж:** «sales»: 8392
  
 **4. Количество отзывов товара:** 	«good_reviews»: 3161, «bad_reviews»: 0
+ 
+ **Скриншот GET-запроса в Postman**
+ 
+ ![Снимок экрана 2023-06-02 095919](https://github.com/Kuroi22aida/Test-task-GGsel.net/assets/102971958/dda81edb-e9e2-4168-9f8c-a91c1eeb0402)
+
 
