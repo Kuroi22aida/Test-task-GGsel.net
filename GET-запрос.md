@@ -46,6 +46,6 @@
  
  **Скриншот GET-запроса в Postman**
  
- ![Снимок экрана 2023-06-02 095919](https://github.com/Kuroi22aida/Test-task-GGsel.net/assets/102971958/dda81edb-e9e2-4168-9f8c-a91c1eeb0402)
+![Снимок экрана 2023-06-02 095919](https://github.com/Kuroi22aida/Test-task-GGsel.net/assets/102971958/da6f40d2-7e12-4e3b-b0ce-19dfe91e3940)
 
 
